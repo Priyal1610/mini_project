@@ -15,3 +15,6 @@ CREATE TABLE users(
 );
 
 SELECT * FROM users;
+
+INSERT INTO users VALUES( 'bpriyal', 'Priyal Bansal', 9462014163, 'A-', 'Keshoraipatan', 'Bundi', 'Rajasthan', 'priyal@gmail.com', 'pri16', 1);
+INSERT INTO users VALUES( 'banpri', 'Priyal Bansal', 9462014163, 'A-', 'Keshoraipatan', 'Bundi', 'Rajasthan', 'priyal@gmail.com', 'pri16', 0);
